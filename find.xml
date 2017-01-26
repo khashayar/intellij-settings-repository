@@ -1,0 +1,9 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '.../src/app/dirt.module.ts - [dirt]'" />
+    <option name="defaultScopeName" value="File '.../src/app/dirt.module.ts - [dirt]'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="File '.../src/app/dirt.module.ts - [dirt]'" />
+  </component>
+</application>
