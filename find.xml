@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/app/dirt.module.ts - [dirt]'" />
-    <option name="defaultScopeName" value="File '.../src/app/dirt.module.ts - [dirt]'" />
+    <option name="customScope" value="File '.../src/test/java/treasure/GroupCountControllerTests.java - [restful-api]'" />
+    <option name="defaultScopeName" value="File '.../src/test/java/treasure/GroupCountControllerTests.java - [restful-api]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../src/app/dirt.module.ts - [dirt]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/test/java/treasure/GroupCountControllerTests.java - [restful-api]'" />
   </component>
 </application>
