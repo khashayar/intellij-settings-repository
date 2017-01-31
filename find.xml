@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../src/test/java/treasure/GroupCountControllerTests.java - [restful-api]'" />
-    <option name="defaultScopeName" value="File '.../src/test/java/treasure/GroupCountControllerTests.java - [restful-api]'" />
+    <option name="customScope" value="Project 'treasure'" />
+    <option name="defaultScopeName" value="Project 'treasure'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../src/test/java/treasure/GroupCountControllerTests.java - [restful-api]'" />
+    <option name="SEARCH_SCOPE" value="Project 'treasure'" />
   </component>
 </application>
