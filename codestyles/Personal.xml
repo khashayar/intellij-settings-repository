@@ -16,14 +16,12 @@
   <JavaCodeStyleSettings>
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
-        <package name="" withSubpackages="true" static="true" />
-        <emptyLine />
-        <package name="com" withSubpackages="true" static="false" />
+        <package name="" withSubpackages="true" static="false" />
         <emptyLine />
         <package name="java" withSubpackages="true" static="false" />
         <package name="javax" withSubpackages="true" static="false" />
         <emptyLine />
-        <package name="" withSubpackages="true" static="false" />
+        <package name="" withSubpackages="true" static="true" />
       </value>
     </option>
   </JavaCodeStyleSettings>
@@ -34,6 +32,13 @@
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
