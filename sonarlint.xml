@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df93df9adf99df9edf9cdf99df92dfcbdfccdf9edfc8df9adf99df93df9edf9fdf99dfcfdfc9dfcfdf9edf99df98df93dfcedf9edf9cdf92dfc8df98df9edf9cdf9edf99df98df9ddfccdfcedfc8dfce</token>
+          <option name="name" value="Dagizmo" />
+          <organizationKey>dagizmo</organizationKey>
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
