@@ -1,11 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.2-2018.1" />
-    <option name="selectedTheme" value="SOLARIZED_DARK" />
     <option name="highlightColor" value="ff0000" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="3" />
     <option name="isContrastMode" value="true" />
+    <option name="accentColor" value="80cbc4" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="28" />
     <option name="userId" value="-387da9d:163fec677c7:-7fff" />
