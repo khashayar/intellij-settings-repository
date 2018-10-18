@@ -4,7 +4,7 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonarcloud.io" />
-          <token>df93df9adf99df9edf9cdf99df92dfcbdfccdf9edfc8df9adf99df93df9edf9fdf99dfcfdfc9dfcfdf9edf99df98df93dfcedf9edf9cdf92dfc8df98df9edf9cdf9edf99df98df9ddfccdfcedfc8dfce</token>
+          <token>df93df98df93dfcedf9edf9edfcbdf98df9ddfcedfcedf9edf9fdf9edfcbdf9edf9fdf93df9cdfccdf99df93dfccdf9adf9ddfcedf92df9edfc9df9cdf9edf92dfc9df92dfcfdf9bdf9fdf9ddf9edf9c</token>
           <option name="name" value="Dagizmo" />
           <organizationKey>dagizmo</organizationKey>
           <enableNotifications>true</enableNotifications>
