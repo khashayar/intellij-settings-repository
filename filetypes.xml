@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="GroupWithMembersCount" type="CLASS" />
+      <removed_mapping pattern=".editorconfig" type="EditorConfig" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="test.js" type="PLAIN_TEXT" />
